@@ -1,0 +1,15 @@
+html, body {
+    
+    padding: 0;
+    overflow-x: hidden;
+  }
+#title {
+   
+    background-image: url("../race.gif");
+}
+
+body{
+    font-family: 'Victor Mono', monospace;
+    
+}
+
