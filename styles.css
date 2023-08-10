@@ -103,7 +103,7 @@ body{
   padding: 2rem;
   border-radius: 50px 0 0 50px;
   opacity: 70%;
-  height: 350px;
+  height: 330px;
   
 }
 .platformCard h1{
@@ -135,7 +135,7 @@ body{
   padding: 2rem;
   border-radius: 0px 50px 50px 0px;
   opacity: 75%;
-  height: 420px;
+  height: 400px;
 }
 .platformCard1 h1{
   color: white;
